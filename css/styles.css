@@ -1,0 +1,16 @@
+.rideName {
+  font-weight: bold;
+}
+
+/*.rides {
+  display: none;
+}*/
+ #short {
+   display: none;
+ }
+ #middle {
+   display: none;
+ }
+ #tall {
+   display: none;
+ }
