@@ -1,11 +1,15 @@
-.rideName {
+.rides span{
   font-weight: bold;
 }
-
-/*.rides {
+.myRides {
   display: none;
-}*/
- #short {
+}
+em {
+  color: lime;
+}
+
+
+ /*#short {
    display: none;
  }
  #middle {
@@ -13,4 +17,8 @@
  }
  #tall {
    display: none;
+ }*/
+
+.rideable{
+ background-color: lime;
  }
